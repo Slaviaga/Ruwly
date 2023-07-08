@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./src/thumbnail.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Clara - MD</h1>
+<h1 align="center">Momoka X Rena Megumi</h1>
 
 
 ## Baca Sebelum Pakai!!
@@ -29,7 +29,7 @@
 ---------
 
 ##
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285760451683) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289516193660) 
 
 ##
 [![Uptime Status](https://api.netlify.com/api/v1/badges/074dc5c6-dc02-47eb-afdb-f504d226ba3b/deploy-status)](https://app.netlify.com/sites/nao-md/deploys)
